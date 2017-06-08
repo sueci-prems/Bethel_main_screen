@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bethel_main_screen.iml" filepath="$PROJECT_DIR$/Bethel_main_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/about_us/about_us.iml" filepath="$PROJECT_DIR$/about_us/about_us.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1about/app1about.iml" filepath="$PROJECT_DIR$/app1about/app1about.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1main/app1main.iml" filepath="$PROJECT_DIR$/app1main/app1main.iml" />
+    </modules>
+  </component>
+</project>
